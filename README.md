@@ -4,3 +4,5 @@ An Highschool project in which we had to create a connected object in C using a 
 ## Documentation
 
 Here is the link to our [GoogleDrive](https://drive.google.com/drive/folders/127MHUrIa0J0QKbBZoWo-sTtqX0VhHE3U?usp=sharing) repository where we upload all of the documentation and some useful informations about the conception of this project and the material we used.
+
+### Important : The whole documentation is currently written in French because we're all french-native.
